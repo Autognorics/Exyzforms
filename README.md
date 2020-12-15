@@ -8,16 +8,16 @@ In the [video](https://www.youtube.com/watch?v=yd4qjQkjs8o&feature=emb_title), t
 
 ## Examples of Intuitive Objects with Embedded Inscriptions:
 
-### Example of Intuitive Shape
+### Intuitive Shape
 ![Shape](cd.jpg) 
 
-### Example of Intuitive Form
+### Intuitive Form
 ![Form](crawl.JPG) 
 
-### Example of Intuitive Object
+### Intuitive Object
 ![Object](link.JPG) 
 
-### Example of Intuitive System
+### Intuitive System
 ![System](homodroid.jpg) 
 
 
