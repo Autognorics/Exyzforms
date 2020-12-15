@@ -1,3 +1,4 @@
+![Autognorics](XYZ.jpg)
 # Exyzforms
 [HOME](https://autognorics.github.io/) 
 
