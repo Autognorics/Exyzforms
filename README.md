@@ -10,7 +10,7 @@ In the [video](https://www.youtube.com/watch?v=yd4qjQkjs8o&feature=emb_title), t
 
 ![Form](crawl.JPG)
 
-![Object](link.JPG)
+![Object](link.JPG)type" width="100" height="100"
 
 ![System](homodroid.jpg)
 
