@@ -1,4 +1,5 @@
 # Exyzforms
+[HOME](https://autognorics.github.io/) 
 
 Exyzforms are intuitive objects, shapes, systems, or forms that exhibit mechanically embedded inscriptions. The word was derived from the Greek "exypnos" which means wise and "morfes zois" which means life forms. Exyzforms are the missing links, the fundamental units, the nuts and bolts in the actualization of creating a living machine that is alive, aware, conscious, intuitive, and neural ( knowledge originating from within the organism).
 
