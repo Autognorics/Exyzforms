@@ -8,7 +8,7 @@ By integrating intuitive objects with latent inscriptions into a system, a new l
 
 In the [video](https://www.youtube.com/watch?v=yd4qjQkjs8o&feature=emb_title), the machine is animated not because it was computer programmed by a set of instructions but because it was mechanically programmed by its designs, structures, and materials. The machine programmed itself through the natural phenomena called Inscription by Design a.k.a I.D. The machine moves in a circular motion by itself due to I.D. and not by any computer programs.
 
-## Examples of Intuitive Objects with Embedded Inscriptions:
+## Intuitive Objects with Embedded Inscriptions Examples:
 
 ### Intuitive Shape
 ![Shape](cd.jpg) 
@@ -22,7 +22,7 @@ In the [video](https://www.youtube.com/watch?v=yd4qjQkjs8o&feature=emb_title), t
 ### Intuitive System
 ![System](homodroid.jpg) 
 
-### Inscription by Design Theory
+### Inscription by Design Theory:
 [Intuitive Objects Simulation with Embedded Inscriptions](https://www.youtube.com/watch?v=1ts3hzaGPNg)
 
 
