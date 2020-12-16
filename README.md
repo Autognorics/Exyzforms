@@ -23,7 +23,7 @@ In the [video](https://www.youtube.com/watch?v=yd4qjQkjs8o&feature=emb_title), t
 ![System](homodroid.jpg) 
 
 ### Inscription by Design Theory:
-[Intuitive Objects Simulation with Embedded Inscriptions](https://www.youtube.com/watch?v=1ts3hzaGPNg)
+[VIDEO: Intuitive Objects Simulation with Embedded Inscriptions](https://www.youtube.com/watch?v=1ts3hzaGPNg)
 
 
 
