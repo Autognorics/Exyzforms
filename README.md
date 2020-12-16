@@ -23,7 +23,7 @@ In the [video](https://www.youtube.com/watch?v=yd4qjQkjs8o&feature=emb_title), t
 ![System](homodroid.jpg) 
 
 ### Inscription by Design
-[video](https://www.youtube.com/watch?v=1ts3hzaGPNg)
+[Proof of Concept](https://www.youtube.com/watch?v=1ts3hzaGPNg)
 
 
 
