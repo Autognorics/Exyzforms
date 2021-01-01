@@ -1,4 +1,4 @@
-![Autognorics](gnorics.jpg)
+![Autognorics](IO.jpg)
 # EXYZFORMS
 [HOME](https://autognorics.github.io/) 
 
